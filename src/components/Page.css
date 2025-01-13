@@ -1,0 +1,146 @@
+.container-div {
+    width: 100vw;
+    margin-top: -20px;
+}
+
+.color-div {
+    float: left;
+    width: 160px;
+}
+
+.top-div {
+    height: fit-content;
+    justify-content: center;
+    display: flex;
+}
+
+.dataset-div {
+    display: inline-block;
+    text-align: center;
+    width: 670px;
+    height: fit-content;
+}
+
+.bottom-div {
+    width: 100vw;
+}
+
+.globe-div {
+    margin-top: 15px;
+    width: calc(100% - 320px);
+    display: inline-block;
+}
+
+.data-style-div {
+    float: right;
+    width: 160px;
+}
+
+.title {
+    font-family: "Lucida Console";
+    font-size: 30px;
+    font-weight: bold;
+    display: inline;
+    padding-top: 20px;
+    margin-top: -0px;
+    height: 30px;
+    margin-right: 20px;
+}
+
+.inner-div {
+    margin: 0 auto;
+    width: 100px;
+    margin-top: 2px;
+    font-family: "Lucida Console";
+    font-size: medium;
+    font-weight: bold;
+    color: blue;
+}
+
+.selected-dataset {
+    vertical-align: top;
+    list-style-type: none;
+    display: inline-block;
+    margin: 10px;
+    height: 67px;
+    width: 144px;
+    box-sizing: border-box;
+    border-radius: 20px;
+    border: 5px solid;
+    border-color: gray;
+    background-color: lightgray;
+}
+
+.unselected-dataset {
+    vertical-align: top;
+    list-style-type: none;
+    display: inline-block;
+    margin: 10px;
+    height: 67px;
+    width: 144px;
+    box-sizing: border-box;
+    border-radius: 20px;
+    border: 5px solid;
+    border-color: grey;
+    background-color: white;
+    box-shadow: 5px 5px rgba(0, 0, 0, 0.5);
+}
+
+.selected-color {
+    height: 67px;
+    width: 134px;
+    margin: 10px;
+    box-sizing: border-box;
+    border-radius: 20px;
+    border: 5px solid;
+    border-color: grey;
+    background-color: pink;
+    list-style-type: none;
+    filter: brightness(65%);
+}
+
+.unselected-color {
+    height: 67px;
+    width: 134px;
+    margin: 10px;
+    box-sizing: border-box;
+    border-radius: 20px;
+    border: 5px solid;
+    border-color: grey;
+    box-shadow: 5px 5px rgba(0, 0, 0, 0.5);
+    list-style-type: none;
+
+}
+
+.selected-style {
+    height: 67px;
+    width: 134px;
+    margin: 10px;
+    box-sizing: border-box;
+    border-radius: 20px;
+    border: 5px solid;
+    border-color: grey;
+    background-color: lightgray;
+    list-style-type: none;
+    font-family: "Lucida Console";
+    font-size: medium;
+    font-weight: bold;
+    color: blue;
+}
+
+.unselected-style {
+    height: 67px;
+    width: 134px;
+    margin: 10px;
+    box-sizing: border-box;
+    border-radius: 20px;
+    border: 5px solid;
+    border-color: grey;
+    background-color: white;
+    box-shadow: 5px 5px rgba(0, 0, 0, 0.5);
+    list-style-type: none;
+    font-family: "Lucida Console";
+    font-size: medium;
+    font-weight: bold;
+    color: blue;
+}

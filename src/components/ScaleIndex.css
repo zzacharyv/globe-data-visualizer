@@ -1,0 +1,31 @@
+.container {
+    width: fit-content;
+    height: 110px;
+    display: inline-block;
+    font-size: 18px;
+}
+
+.unit {
+    display: inline-block;
+    width: 50px;
+    height: 10px;
+    border-top: 1px solid;
+    border-bottom: 1px solid;
+}
+
+.num {
+    display: inline-block;
+    width: 50px;
+    height: fit-content;
+    transform: rotate(-25deg);
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.bottom {
+    margin-bottom: -20px;
+}
+
+.label {
+    margin: 0;
+}

@@ -1,0 +1,1644 @@
+{
+    "data": [
+        {
+            "amount": 9789054.000000000,
+            "height": 825369.750000000000000,
+            "country": "United Arab Emirates",
+            "latitude": 23.424076,
+            "longitude": 53.847818,
+            "expectancy": 79.083099365234380,
+            "production": 23474.839843750000000,
+            "energy_consumption": 133080.09375000000000
+        },
+        {
+            "amount": 88352.796875000,
+            "height": 4857.066894531250000,
+            "country": "Antigua and Barbuda",
+            "latitude": 17.060816,
+            "longitude": -61.796428,
+            "expectancy": 77.196998596191400,
+            "production": 10.680000305175781,
+            "energy_consumption": 29464.33203125000000
+        },
+        {
+            "amount": 2260442.750000000,
+            "height": 167.899993896484380,
+            "country": "Albania",
+            "latitude": 41.153332,
+            "longitude": 20.168331,
+            "expectancy": 76.844200134277340,
+            "production": 414270.812500000000000,
+            "energy_consumption": 14100.43164062500000
+        },
+        {
+            "amount": 2256438.250000000,
+            "height": 172.199996948242200,
+            "country": "Armenia",
+            "latitude": 40.069099,
+            "longitude": 45.038189,
+            "expectancy": 72.552398681640620,
+            "production": 6291.899902343750000,
+            "energy_consumption": 17684.54687500000000
+        },
+        {
+            "amount": 11258366.000000000,
+            "height": 17011.994140625000000,
+            "country": "Angola",
+            "latitude": -11.202692,
+            "longitude": 17.873887,
+            "expectancy": 62.958099365234375,
+            "production": 2970208.000000000000000,
+            "energy_consumption": 2791.33178710937500
+        },
+        {
+            "amount": 39489972.000000000,
+            "height": 2619374.500000000000000,
+            "country": "Argentina",
+            "latitude": -38.416097,
+            "longitude": -63.616672,
+            "expectancy": 73.948501586914060,
+            "production": 60525804.000000000000000,
+            "energy_consumption": 21168.96289062500000
+        },
+        {
+            "amount": 8297138.000000000,
+            "height": 2702771.500000000000000,
+            "country": "Austria",
+            "latitude": 47.516231,
+            "longitude": 14.550072,
+            "expectancy": 81.820396423339840,
+            "production": 2434900.000000000000000,
+            "energy_consumption": 45508.76953125000000
+        },
+        {
+            "amount": 24980454.000000000,
+            "height": 8945601.000000000000000,
+            "country": "Australia",
+            "latitude": -25.274398,
+            "longitude": 133.775136,
+            "expectancy": 83.564002990722660,
+            "production": 305655.875000000000000,
+            "energy_consumption": 61304.32031250000000
+        },
+        {
+            "amount": 8801561.000000000,
+            "height": 171.800003051757800,
+            "country": "Azerbaijan",
+            "latitude": 40.143105,
+            "longitude": 47.576927,
+            "expectancy": 70.999397277832030,
+            "production": 279248.312500000000000,
+            "energy_consumption": 19155.39453125000000
+        },
+        {
+            "amount": 2455623.750000000,
+            "height": 173.199996948242200,
+            "country": "Bosnia and Herzegovina",
+            "latitude": 43.915886,
+            "longitude": 17.679076,
+            "expectancy": 74.567298889160160,
+            "production": 893124.000000000000000,
+            "energy_consumption": 23013.49804687500000
+        },
+        {
+            "amount": 242146.281250000,
+            "height": 10413.779296875000000,
+            "country": "Barbados",
+            "latitude": 13.193887,
+            "longitude": -59.543198,
+            "expectancy": 76.579696655273440,
+            "production": 49.900001525878906,
+            "energy_consumption": 23025.99804687500000
+        },
+        {
+            "amount": 65248544.000000000,
+            "height": 163.300003051757800,
+            "country": "Bangladesh",
+            "latitude": 23.684994,
+            "longitude": 90.356331,
+            "expectancy": 71.103500366210940,
+            "production": 4116438.000000000000000,
+            "energy_consumption": 2907.36596679687500
+        },
+        {
+            "amount": 10736431.000000000,
+            "height": 3017254.250000000000000,
+            "country": "Belgium",
+            "latitude": 50.503887,
+            "longitude": 4.469936,
+            "expectancy": 81.659103393554690,
+            "production": 449890.000000000000000,
+            "energy_consumption": 63587.87500000000000
+        },
+        {
+            "amount": 4746537.000000000,
+            "height": 9192.232421875000000,
+            "country": "Burkina Faso",
+            "latitude": 12.238333,
+            "longitude": -1.561593,
+            "expectancy": 60.046298980712890,
+            "production": 1853510.000000000000000,
+            "energy_consumption": 904.72613525390620
+        },
+        {
+            "amount": 5176584.500000000,
+            "height": 429701.750000000000000,
+            "country": "Bulgaria",
+            "latitude": 42.733883,
+            "longitude": 25.485830,
+            "expectancy": 71.413696289062500,
+            "production": 3427310.000000000000000,
+            "energy_consumption": 32224.79687500000000
+        },
+        {
+            "amount": 1501762.000000000,
+            "height": 41204.781250000000000,
+            "country": "Bahrain",
+            "latitude": 25.930414,
+            "longitude": 50.637772,
+            "expectancy": 78.082603454589840,
+            "production": null,
+            "energy_consumption": 161111.20312500000000
+        },
+        {
+            "amount": 752636.375000000,
+            "height": 4998.125976562500000,
+            "country": "Burundi",
+            "latitude": -3.373056,
+            "longitude": 29.918886,
+            "expectancy": 62.101299285888670,
+            "production": 280000.000000000000000,
+            "energy_consumption": 293.88861083984375
+        },
+        {
+            "amount": 4555913.500000000,
+            "height": 16266.539062500000000,
+            "country": "Benin",
+            "latitude": 9.307690,
+            "longitude": 2.315834,
+            "expectancy": 59.610298156738280,
+            "production": 1628148.875000000000000,
+            "energy_consumption": 2484.81787109375000
+        },
+        {
+            "amount": 7875963.000000000,
+            "height": 168.699996948242200,
+            "country": "Bolivia",
+            "latitude": -16.290154,
+            "longitude": -63.588653,
+            "expectancy": 61.426799774169920,
+            "production": 1250330.250000000000000,
+            "energy_consumption": 7062.14794921875000
+        },
+        {
+            "amount": 169085904.000000000,
+            "height": 4995516.500000000000000,
+            "country": "Brazil",
+            "latitude": -14.235004,
+            "longitude": -51.925280,
+            "expectancy": 73.037696838378900,
+            "production": 88272112.000000000000000,
+            "energy_consumption": 16659.97656250000000
+        },
+        {
+            "amount": 373762.750000000,
+            "height": 25907.679687500000000,
+            "country": "Bahamas",
+            "latitude": 25.034280,
+            "longitude": -77.396280,
+            "expectancy": 70.751998901367190,
+            "production": 608.219970703125000,
+            "energy_consumption": 35447.57421875000000
+        },
+        {
+            "amount": 664072.062500000,
+            "height": 2393.117187500000000,
+            "country": "Bhutan",
+            "latitude": 27.514162,
+            "longitude": 90.433601,
+            "expectancy": 72.448196411132810,
+            "production": 30938.640625000000000,
+            "energy_consumption": 27785.35742187500000
+        },
+        {
+            "amount": 1765065.000000000,
+            "height": 48688.863281250000000,
+            "country": "Botswana",
+            "latitude": -22.328474,
+            "longitude": 24.684866,
+            "expectancy": 63.302501678466800,
+            "production": 67436.109375000000000,
+            "energy_consumption": 9385.39843750000000
+        },
+        {
+            "amount": 8038366.000000000,
+            "height": 185878.171875000000000,
+            "country": "Belarus",
+            "latitude": 53.709807,
+            "longitude": 27.953389,
+            "expectancy": 72.220596313476560,
+            "production": 1148000.000000000000000,
+            "energy_consumption": 31953.42773437500000
+        },
+        {
+            "amount": 245097.671875000,
+            "height": 14361.452148437500000,
+            "country": "Belize",
+            "latitude": 17.189877,
+            "longitude": -88.497650,
+            "expectancy": 70.916999816894530,
+            "production": 108743.000000000000000,
+            "energy_consumption": 7437.57128906250000
+        },
+        {
+            "amount": 35698444.000000000,
+            "height": 15847493.000000000000000,
+            "country": "Canada",
+            "latitude": 56.130366,
+            "longitude": -106.346771,
+            "expectancy": 81.975997924804690,
+            "production": 14610792.000000000000000,
+            "energy_consumption": 101349.10156250000000
+        },
+        {
+            "amount": 540995.312500000,
+            "height": 2046.823974609375000,
+            "country": "Central African Republic",
+            "latitude": 6.611111,
+            "longitude": 20.939444,
+            "expectancy": 40.279098510742190,
+            "production": 208140.000000000000000,
+            "energy_consumption": 286.13189697265625
+        },
+        {
+            "amount": 8321242.500000000,
+            "height": 3383665.250000000000000,
+            "country": "Switzerland",
+            "latitude": 46.818188,
+            "longitude": 8.227512,
+            "expectancy": 83.647697448730470,
+            "production": 98216.000000000000000,
+            "energy_consumption": 34296.21093750000000
+        },
+        {
+            "amount": 13464008.000000000,
+            "height": 40966.414062500000000,
+            "country": "Cote d'Ivoire",
+            "latitude": 7.539989,
+            "longitude": -5.547080,
+            "expectancy": 60.289699554443360,
+            "production": 1139557.000000000000000,
+            "energy_consumption": 2370.59643554687500
+        },
+        {
+            "amount": 17548312.000000000,
+            "height": 175.000000000000000,
+            "country": "Chile",
+            "latitude": -35.675147,
+            "longitude": -71.542969,
+            "expectancy": 78.876403808593750,
+            "production": 793821.750000000000000,
+            "energy_consumption": 24462.75585937500000
+        },
+        {
+            "amount": 12274173.000000000,
+            "height": 37597.742187500000000,
+            "country": "Cameroon",
+            "latitude": 7.369722,
+            "longitude": 12.354722,
+            "expectancy": 61.146301269531250,
+            "production": 2100000.000000000000000,
+            "energy_consumption": 1593.61962890625000
+        },
+        {
+            "amount": 1042058624.000000000,
+            "height": 22546660.000000000000000,
+            "country": "China",
+            "latitude": 35.861660,
+            "longitude": 104.195397,
+            "expectancy": 78.116600036621100,
+            "production": 272552000.000000000000000,
+            "energy_consumption": 30750.54687500000000
+        },
+        {
+            "amount": 37381892.000000000,
+            "height": 172.199996948242200,
+            "country": "Colombia",
+            "latitude": 4.570868,
+            "longitude": -74.297333,
+            "expectancy": 72.698303222656250,
+            "production": 1551015.750000000000000,
+            "energy_consumption": 11156.51464843750000
+        },
+        {
+            "amount": 4187093.500000000,
+            "height": 228398.703125000000000,
+            "country": "Costa Rica",
+            "latitude": 9.748917,
+            "longitude": -83.753428,
+            "expectancy": 78.050102233886720,
+            "production": 12784.469726562500000,
+            "energy_consumption": 11957.59765625000000
+        },
+        {
+            "amount": 7909983.500000000,
+            "height": 60120.574218750000000,
+            "country": "Cuba",
+            "latitude": 21.521757,
+            "longitude": -77.781167,
+            "expectancy": 73.200599670410160,
+            "production": 238721.000000000000000,
+            "energy_consumption": 9229.53808593750000
+        },
+        {
+            "amount": 360430.156250000,
+            "height": 8261.757812500000000,
+            "country": "Cape Verde",
+            "latitude": 16.002082,
+            "longitude": -24.013197,
+            "expectancy": 74.423500061035160,
+            "production": 449.000000000000000,
+            "energy_consumption": 7249.49707031250000
+        },
+        {
+            "amount": 1195586.000000000,
+            "height": 144570.328125000000000,
+            "country": "Cyprus",
+            "latitude": 35.126413,
+            "longitude": 33.429859,
+            "expectancy": 80.573501586914060,
+            "production": null,
+            "energy_consumption": 23985.01171875000000
+        },
+        {
+            "amount": 76524752.000000000,
+            "height": 24716142.000000000000000,
+            "country": "Germany",
+            "latitude": 51.165691,
+            "longitude": 10.451526,
+            "expectancy": 81.105903625488280,
+            "production": 4462400.000000000000000,
+            "energy_consumption": 42496.60937500000000
+        },
+        {
+            "amount": 772129.125000000,
+            "height": 1453.552978515625000,
+            "country": "Djibouti",
+            "latitude": 11.825138,
+            "longitude": 42.590275,
+            "expectancy": 63.830101013183594,
+            "production": 17.370000839233400,
+            "energy_consumption": 2785.07177734375000
+        },
+        {
+            "amount": 5790348.500000000,
+            "height": 2091674.625000000000000,
+            "country": "Denmark",
+            "latitude": 56.263920,
+            "longitude": 9.501785,
+            "expectancy": 81.436302185058600,
+            "production": 45270.000000000000000,
+            "energy_consumption": 32358.58007812500000
+        },
+        {
+            "amount": 54405.593750000,
+            "height": 6040.548339843750000,
+            "country": "Dominica",
+            "latitude": 15.414999,
+            "longitude": -61.370976,
+            "expectancy": 69.831802368164060,
+            "production": 191.300003051757800,
+            "energy_consumption": 10547.77343750000000
+        },
+        {
+            "amount": 9481987.000000000,
+            "height": 173.699996948242200,
+            "country": "Dominican Republic",
+            "latitude": 18.735693,
+            "longitude": -70.162651,
+            "expectancy": 71.757499694824220,
+            "production": 54725.121093750000000,
+            "energy_consumption": 9987.58300781250000
+        },
+        {
+            "amount": 31677430.000000000,
+            "height": 169.500000000000000,
+            "country": "Algeria",
+            "latitude": 28.033886,
+            "longitude": 1.659626,
+            "expectancy": 75.207702636718750,
+            "production": 18491.000000000000000,
+            "energy_consumption": 16017.65332031250000
+        },
+        {
+            "amount": 13474542.000000000,
+            "height": 185540.218750000000000,
+            "country": "Ecuador",
+            "latitude": -1.831239,
+            "longitude": -78.183406,
+            "expectancy": 72.746498107910160,
+            "production": 1699369.625000000000000,
+            "energy_consumption": 11945.16406250000000
+        },
+        {
+            "amount": 1211622.125000000,
+            "height": 399220.343750000000000,
+            "country": "Estonia",
+            "latitude": 58.595272,
+            "longitude": 25.013607,
+            "expectancy": 77.409500122070310,
+            "production": 0.000000000000000,
+            "energy_consumption": 46211.34765625000000
+        },
+        {
+            "amount": 79955616.000000000,
+            "height": 171.699996948242200,
+            "country": "Egypt",
+            "latitude": 26.820553,
+            "longitude": 30.802498,
+            "expectancy": 68.975898742675780,
+            "production": 8035715.000000000000000,
+            "energy_consumption": 9689.93359375000000
+        },
+        {
+            "amount": 728007.937500000,
+            "height": 3071.966552734375000,
+            "country": "Eritrea",
+            "latitude": 15.179384,
+            "longitude": 39.782334,
+            "expectancy": 66.939598083496100,
+            "production": 20000.000000000000000,
+            "energy_consumption": 914.49517822265620
+        },
+        {
+            "amount": 44822612.000000000,
+            "height": 5588928.000000000000000,
+            "country": "Spain",
+            "latitude": 40.463667,
+            "longitude": -3.749220,
+            "expectancy": 82.950798034667970,
+            "production": 4597660.000000000000000,
+            "energy_consumption": 32225.06640625000000
+        },
+        {
+            "amount": 20394828.000000000,
+            "height": 10289.533203125000000,
+            "country": "Ethiopia",
+            "latitude": 9.145000,
+            "longitude": 40.489673,
+            "expectancy": 65.329902648925780,
+            "production": 10751000.000000000000000,
+            "energy_consumption": 871.58447265625000
+        },
+        {
+            "amount": 5142557.500000000,
+            "height": 1928054.125000000000000,
+            "country": "Finland",
+            "latitude": 61.924110,
+            "longitude": 25.748151,
+            "expectancy": 81.813697814941400,
+            "production": 0.000000000000000,
+            "energy_consumption": 57919.22265625000000
+        },
+        {
+            "amount": 803593.812500000,
+            "height": 12587.246093750000000,
+            "country": "Fiji",
+            "latitude": -16.578193,
+            "longitude": 179.414413,
+            "expectancy": 64.903900146484380,
+            "production": 1438.000000000000000,
+            "energy_consumption": 9222.84765625000000
+        },
+        {
+            "amount": 56894952.000000000,
+            "height": 8510885.000000000000000,
+            "country": "France",
+            "latitude": 46.227638,
+            "longitude": 2.213749,
+            "expectancy": 82.321601867675780,
+            "production": 15358290.000000000000000,
+            "energy_consumption": 40191.64062500000000
+        },
+        {
+            "amount": 1705288.250000000,
+            "height": 15512.822265625000000,
+            "country": "Gabon",
+            "latitude": -0.803689,
+            "longitude": 11.609444,
+            "expectancy": 67.071502685546880,
+            "production": 45072.761718750000000,
+            "energy_consumption": 8009.64404296875000
+        },
+        {
+            "amount": 65422344.000000000,
+            "height": 15840214.000000000000000,
+            "country": "United Kingdom",
+            "latitude": 55.378051,
+            "longitude": -3.435973,
+            "expectancy": 80.708000183105470,
+            "production": null,
+            "energy_consumption": 29591.66601562500000
+        },
+        {
+            "amount": 90750.476562500,
+            "height": 4367.319335937500000,
+            "country": "Grenada",
+            "latitude": 12.262776,
+            "longitude": -61.604171,
+            "expectancy": 74.522102355957030,
+            "production": 384.130004882812500,
+            "energy_consumption": 9432.06152343750000
+        },
+        {
+            "amount": 2895994.000000000,
+            "height": 173.199996948242200,
+            "country": "Georgia",
+            "latitude": 42.315407,
+            "longitude": 43.356892,
+            "expectancy": 71.635299682617190,
+            "production": 233000.000000000000000,
+            "energy_consumption": 20834.76757812500000
+        },
+        {
+            "amount": 22177726.000000000,
+            "height": 30165.568359375000000,
+            "country": "Ghana",
+            "latitude": 7.946527,
+            "longitude": -1.023194,
+            "expectancy": 64.286201477050780,
+            "production": 3203000.000000000000000,
+            "energy_consumption": 3483.36254882812500
+        },
+        {
+            "amount": 849113.125000000,
+            "height": 13412.991210937500000,
+            "country": "Gambia",
+            "latitude": 13.443182,
+            "longitude": -15.310139,
+            "expectancy": 63.847499847412110,
+            "production": 27895.000000000000000,
+            "energy_consumption": 931.27331542968750
+        },
+        {
+            "amount": 4754823.500000000,
+            "height": 8043.210937500000000,
+            "country": "Guinea",
+            "latitude": 9.945587,
+            "longitude": -9.696645,
+            "expectancy": 59.372798919677734,
+            "production": 798327.000000000000000,
+            "energy_consumption": 1281.52502441406250
+        },
+        {
+            "amount": 8304348.500000000,
+            "height": 985407.687500000000000,
+            "country": "Greece",
+            "latitude": 39.074208,
+            "longitude": 21.824312,
+            "expectancy": 80.531196594238280,
+            "production": 1350250.000000000000000,
+            "energy_consumption": 28963.66992187500000
+        },
+        {
+            "amount": 8947446.000000000,
+            "height": 163.600006103515620,
+            "country": "Guatemala",
+            "latitude": 15.783471,
+            "longitude": -90.230759,
+            "expectancy": 67.858200073242190,
+            "production": 2061261.000000000000000,
+            "energy_consumption": 5712.11816406250000
+        },
+        {
+            "amount": 723785.625000000,
+            "height": 2841.189697265625000,
+            "country": "Guinea-Bissau",
+            "latitude": 11.803749,
+            "longitude": -15.180413,
+            "expectancy": 61.652801513671875,
+            "production": 16971.000000000000000,
+            "energy_consumption": 677.32812500000000
+        },
+        {
+            "amount": 691478.000000000,
+            "height": 172.899993896484380,
+            "country": "Guyana",
+            "latitude": 4.860416,
+            "longitude": -58.930180,
+            "expectancy": 64.322799682617190,
+            "production": 4000.000000000000000,
+            "energy_consumption": 13690.03417968750000
+        },
+        {
+            "amount": 6967205.000000000,
+            "height": 1865757.875000000000000,
+            "country": "Hong Kong",
+            "latitude": 22.396428,
+            "longitude": 114.109497,
+            "expectancy": 85.081596374511720,
+            "production": null,
+            "energy_consumption": 32504.03515625000000
+        },
+        {
+            "amount": 4947737.500000000,
+            "height": 167.600006103515620,
+            "country": "Honduras",
+            "latitude": 15.199999,
+            "longitude": -86.241905,
+            "expectancy": 69.492401123046880,
+            "production": 673593.062500000000000,
+            "energy_consumption": 5086.93359375000000
+        },
+        {
+            "amount": 3188899.000000000,
+            "height": 287464.593750000000000,
+            "country": "Croatia",
+            "latitude": 45.100000,
+            "longitude": 15.200000,
+            "expectancy": 77.141197204589840,
+            "production": 2242120.000000000000000,
+            "energy_consumption": 24213.96875000000000
+        },
+        {
+            "amount": 4429837.000000000,
+            "height": 19202.755859375000000,
+            "country": "Haiti",
+            "latitude": 18.971187,
+            "longitude": -72.285215,
+            "expectancy": 62.612998962402344,
+            "production": 200000.000000000000000,
+            "energy_consumption": 1030.88085937500000
+        },
+        {
+            "amount": 8605117.000000000,
+            "height": 713308.750000000000000,
+            "country": "Hungary",
+            "latitude": 47.162494,
+            "longitude": 19.503304,
+            "expectancy": 74.185096740722660,
+            "production": 6424630.000000000000000,
+            "energy_consumption": 29244.55859375000000
+        },
+        {
+            "amount": 171879136.000000000,
+            "height": 1999938.000000000000000,
+            "country": "Indonesia",
+            "latitude": -0.789275,
+            "longitude": 113.921327,
+            "expectancy": 67.451599121093750,
+            "production": 17017000.000000000000000,
+            "energy_consumption": 8087.77148437500000
+        },
+        {
+            "amount": 4785535.000000000,
+            "height": 678780.125000000000000,
+            "country": "Ireland",
+            "latitude": 53.412910,
+            "longitude": -8.243890,
+            "expectancy": 81.860801696777340,
+            "production": 0.000000000000000,
+            "energy_consumption": 35986.18359375000000
+        },
+        {
+            "amount": 8075184.000000000,
+            "height": 1275638.000000000000000,
+            "country": "Israel",
+            "latitude": 31.046051,
+            "longitude": 34.851612,
+            "expectancy": 82.516899108886720,
+            "production": 68291.000000000000000,
+            "energy_consumption": 32813.75390625000000
+        },
+        {
+            "amount": 654917824.000000000,
+            "height": 5580886.000000000000000,
+            "country": "India",
+            "latitude": 20.593684,
+            "longitude": 78.962880,
+            "expectancy": 67.282302856445310,
+            "production": 31646910.000000000000000,
+            "energy_consumption": 6809.69287109375000
+        },
+        {
+            "amount": 21069224.000000000,
+            "height": 169.600006103515620,
+            "country": "Iraq",
+            "latitude": 33.223191,
+            "longitude": 43.679291,
+            "expectancy": 70.703598022460940,
+            "production": 374400.000000000000000,
+            "energy_consumption": 13615.41210937500000
+        },
+        {
+            "amount": 69522240.000000000,
+            "height": 171.100006103515620,
+            "country": "Iran",
+            "latitude": 32.427908,
+            "longitude": 53.688046,
+            "expectancy": 73.752098083496100,
+            "production": 320169.718750000000000,
+            "energy_consumption": 37783.53125000000000
+        },
+        {
+            "amount": 371482.687500000,
+            "height": 125092.945312500000000,
+            "country": "Iceland",
+            "latitude": 64.963051,
+            "longitude": -19.020835,
+            "expectancy": 82.843299865722660,
+            "production": null,
+            "energy_consumption": 163754.67187500000000
+        },
+        {
+            "amount": 44714784.000000000,
+            "height": 13236106.000000000000000,
+            "country": "Italy",
+            "latitude": 41.871940,
+            "longitude": 12.567380,
+            "expectancy": 82.865196228027340,
+            "production": 6079960.000000000000000,
+            "energy_consumption": 29854.94921875000000
+        },
+        {
+            "amount": 2337135.250000000,
+            "height": 81254.132812500000000,
+            "country": "Jamaica",
+            "latitude": 18.109581,
+            "longitude": -77.297508,
+            "expectancy": 69.084602355957030,
+            "production": 2122.000000000000000,
+            "energy_consumption": 12235.78417968750000
+        },
+        {
+            "amount": 9517068.000000000,
+            "height": 173.500000000000000,
+            "country": "Jordan",
+            "latitude": 30.585164,
+            "longitude": 36.238414,
+            "expectancy": 74.204200744628900,
+            "production": 0.000000000000000,
+            "energy_consumption": 9183.14843750000000
+        },
+        {
+            "amount": 104205864.000000000,
+            "height": 38096576.000000000000000,
+            "country": "Japan",
+            "latitude": 36.204824,
+            "longitude": 138.252924,
+            "expectancy": 84.550003051757810,
+            "production": 162.110000610351560,
+            "energy_consumption": 40425.16015625000000
+        },
+        {
+            "amount": 15304516.000000000,
+            "height": 97462.703125000000000,
+            "country": "Kenya",
+            "latitude": -0.023559,
+            "longitude": 37.906193,
+            "expectancy": 61.225299835205080,
+            "production": 3303000.000000000000000,
+            "energy_consumption": 1952.69384765625000
+        },
+        {
+            "amount": 5314544.500000000,
+            "height": 52331.980468750000000,
+            "country": "Kyrgyzstan",
+            "latitude": 41.204380,
+            "longitude": 74.766098,
+            "expectancy": 69.290397644042970,
+            "production": 691139.000000000000000,
+            "energy_consumption": 9274.61035156250000
+        },
+        {
+            "amount": 10210454.000000000,
+            "height": 163.899993896484380,
+            "country": "Cambodia",
+            "latitude": 12.565679,
+            "longitude": 104.990963,
+            "expectancy": 69.301200866699220,
+            "production": 699000.000000000000000,
+            "energy_consumption": 4035.08129882812500
+        },
+        {
+            "amount": 68849.609375000,
+            "height": 1582.263183593750000,
+            "country": "Kiribati",
+            "latitude": -3.370417,
+            "longitude": -168.734039,
+            "expectancy": 64.148200988769530,
+            "production": null,
+            "energy_consumption": 2446.69848632812500
+        },
+        {
+            "amount": 223664.843750000,
+            "height": 1456.757934570312500,
+            "country": "Comoros",
+            "latitude": -11.875001,
+            "longitude": 43.872219,
+            "expectancy": 65.200897216796880,
+            "production": 18693.000000000000000,
+            "energy_consumption": 1633.78369140625000
+        },
+        {
+            "amount": 37182.269531250,
+            "height": 2654.211425781250000,
+            "country": "Saint Kitts and Nevis",
+            "latitude": 17.357822,
+            "longitude": -62.782998,
+            "expectancy": 69.270896911621100,
+            "production": null,
+            "energy_consumption": 20900.70312500000000
+        },
+        {
+            "amount": 50589172.000000000,
+            "height": 20904696.000000000000000,
+            "country": "South Korea",
+            "latitude": 35.907757,
+            "longitude": 127.766922,
+            "expectancy": 83.851699829101560,
+            "production": 95141.000000000000000,
+            "energy_consumption": 67653.84375000000000
+        },
+        {
+            "amount": 4347666.500000000,
+            "height": 131579.468750000000000,
+            "country": "Kuwait",
+            "latitude": 29.311660,
+            "longitude": 47.481766,
+            "expectancy": 77.625000000000000,
+            "production": 22942.869140625000000,
+            "energy_consumption": 99797.42968750000000
+        },
+        {
+            "amount": 17951668.000000000,
+            "height": 103639.539062500000000,
+            "country": "Kazakhstan",
+            "latitude": 48.019573,
+            "longitude": 66.923684,
+            "expectancy": 70.131103515625000,
+            "production": 1129508.500000000000000,
+            "energy_consumption": 42831.07421875000000
+        },
+        {
+            "amount": 4620978.500000000,
+            "height": 163.500000000000000,
+            "country": "Laos",
+            "latitude": 19.856270,
+            "longitude": 102.495496,
+            "expectancy": 67.807403564453120,
+            "production": 535257.000000000000000,
+            "energy_consumption": 18847.08593750000000
+        },
+        {
+            "amount": 4951270.500000000,
+            "height": 344301.625000000000000,
+            "country": "Lebanon",
+            "latitude": 33.854721,
+            "longitude": 35.862285,
+            "expectancy": 73.649497985839840,
+            "production": 3000.000000000000000,
+            "energy_consumption": 18831.66210937500000
+        },
+        {
+            "amount": 139431.890625000,
+            "height": 8074.728027343750000,
+            "country": "Saint Lucia",
+            "latitude": 13.909444,
+            "longitude": -60.978893,
+            "expectancy": 69.119400024414060,
+            "production": 0.000000000000000,
+            "energy_consumption": 13599.72460937500000
+        },
+        {
+            "amount": 10091018.000000000,
+            "height": 172.100006103515620,
+            "country": "Sri Lanka",
+            "latitude": 7.873054,
+            "longitude": 80.771797,
+            "expectancy": 76.277900695800780,
+            "production": 472443.906250000000000,
+            "energy_consumption": 5035.37988281250000
+        },
+        {
+            "amount": 1768877.500000000,
+            "height": 518.355957031250000,
+            "country": "Liberia",
+            "latitude": 6.428055,
+            "longitude": -9.429499,
+            "expectancy": 61.165798187255860,
+            "production": null,
+            "energy_consumption": 1064.61560058593750
+        },
+        {
+            "amount": 1085159.000000000,
+            "height": 4244.419921875000000,
+            "country": "Lesotho",
+            "latitude": -29.609988,
+            "longitude": 28.233608,
+            "expectancy": 54.209098815917970,
+            "production": 88553.000000000000000,
+            "energy_consumption": 2132.81372070312500
+        },
+        {
+            "amount": 2429264.500000000,
+            "height": 224973.703125000000000,
+            "country": "Lithuania",
+            "latitude": 55.169438,
+            "longitude": 23.881275,
+            "expectancy": 74.296699523925780,
+            "production": 104680.000000000000000,
+            "energy_consumption": 25173.39453125000000
+        },
+        {
+            "amount": 631701.875000000,
+            "height": 99821.250000000000000,
+            "country": "Luxembourg",
+            "latitude": 49.815273,
+            "longitude": 6.129583,
+            "expectancy": 81.839202880859380,
+            "production": 460.000000000000000,
+            "energy_consumption": 67594.57031250000000
+        },
+        {
+            "amount": 1719276.125000000,
+            "height": 149655.671875000000000,
+            "country": "Latvia",
+            "latitude": 56.879635,
+            "longitude": 24.603189,
+            "expectancy": 73.180900573730470,
+            "production": 0.000000000000000,
+            "energy_consumption": 22746.46875000000000
+        },
+        {
+            "amount": 32568068.000000000,
+            "height": 171.199996948242200,
+            "country": "Morocco",
+            "latitude": 31.791702,
+            "longitude": -7.092620,
+            "expectancy": 73.384803771972660,
+            "production": 48637.300781250000000,
+            "energy_consumption": 7256.72167968750000
+        },
+        {
+            "amount": 1853207.125000000,
+            "height": 54328.164062500000000,
+            "country": "Moldova",
+            "latitude": 47.411631,
+            "longitude": 28.369885,
+            "expectancy": 68.990798950195310,
+            "production": 2792700.000000000000000,
+            "energy_consumption": 16006.37304687500000
+        },
+        {
+            "amount": 496486.937500000,
+            "height": 73.552200317382810,
+            "country": "Montenegro",
+            "latitude": 42.708678,
+            "longitude": 19.374390,
+            "expectancy": 73.789299011230470,
+            "production": 2631.000000000000000,
+            "energy_consumption": 18940.29101562500000
+        },
+        {
+            "amount": 5858101.000000000,
+            "height": 32437.210937500000000,
+            "country": "Madagascar",
+            "latitude": -18.766947,
+            "longitude": 46.869107,
+            "expectancy": 62.515701293945310,
+            "production": 232026.000000000000000,
+            "energy_consumption": 507.64364624023440
+        },
+        {
+            "amount": 7721841.500000000,
+            "height": 16477.279296875000000,
+            "country": "Mali",
+            "latitude": 17.570692,
+            "longitude": -3.996166,
+            "expectancy": 59.116001129150390,
+            "production": 3603000.000000000000000,
+            "energy_consumption": 1168.56713867187500
+        },
+        {
+            "amount": 2725405.000000000,
+            "height": 30828.566406250000000,
+            "country": "Mongolia",
+            "latitude": 46.862496,
+            "longitude": 103.846656,
+            "expectancy": 68.565399169921880,
+            "production": null,
+            "energy_consumption": 22407.67382812500000
+        },
+        {
+            "amount": 2782126.750000000,
+            "height": 5018.647949218750000,
+            "country": "Mauritania",
+            "latitude": 21.007890,
+            "longitude": -10.940835,
+            "expectancy": 66.761802673339840,
+            "production": 12000.000000000000000,
+            "energy_consumption": 3988.53247070312500
+        },
+        {
+            "amount": 458676.625000000,
+            "height": 52442.375000000000000,
+            "country": "Malta",
+            "latitude": 35.937496,
+            "longitude": 14.375416,
+            "expectancy": 82.316101074218750,
+            "production": 0.000000000000000,
+            "energy_consumption": 74324.46093750000000
+        },
+        {
+            "amount": 864771.937500000,
+            "height": 88589.484375000000000,
+            "country": "Mauritius",
+            "latitude": -20.348404,
+            "longitude": 57.552152,
+            "expectancy": 72.902999877929690,
+            "production": 1106.000000000000000,
+            "energy_consumption": 19724.71875000000000
+        },
+        {
+            "amount": 442663.531250000,
+            "height": 6215.472656250000000,
+            "country": "Maldives",
+            "latitude": 3.202778,
+            "longitude": 73.220680,
+            "expectancy": 78.052001953125000,
+            "production": 147.889999389648440,
+            "energy_consumption": 17669.36523437500000
+        },
+        {
+            "amount": 4892655.000000000,
+            "height": 14346.462890625000000,
+            "country": "Malawi",
+            "latitude": -13.254308,
+            "longitude": 34.301525,
+            "expectancy": 64.781997680664060,
+            "production": 4581000.000000000000000,
+            "energy_consumption": 464.98254394531250
+        },
+        {
+            "amount": 96535832.000000000,
+            "height": 5011543.500000000000000,
+            "country": "Mexico",
+            "latitude": 23.634501,
+            "longitude": -102.552784,
+            "expectancy": 69.749900817871100,
+            "production": 27503478.000000000000000,
+            "energy_consumption": 17172.89648437500000
+        },
+        {
+            "amount": 33168716.000000000,
+            "height": 4911606.000000000000000,
+            "country": "Malaysia",
+            "latitude": 4.210484,
+            "longitude": 101.975766,
+            "expectancy": 73.917198181152340,
+            "production": 74718.648437500000000,
+            "energy_consumption": 37131.53906250000000
+        },
+        {
+            "amount": 5508544.000000000,
+            "height": 19868.744140625000000,
+            "country": "Mozambique",
+            "latitude": -18.665695,
+            "longitude": 35.529562,
+            "expectancy": 60.268299102783200,
+            "production": 1824281.000000000000000,
+            "energy_consumption": 2241.22607421875000
+        },
+        {
+            "amount": 1488847.750000000,
+            "height": 29912.072265625000000,
+            "country": "Namibia",
+            "latitude": -22.957640,
+            "longitude": 18.490410,
+            "expectancy": 60.849899291992190,
+            "production": 78127.000000000000000,
+            "energy_consumption": 8748.27343750000000
+        },
+        {
+            "amount": 5485084.000000000,
+            "height": 4173.542480468750000,
+            "country": "Niger",
+            "latitude": 17.607789,
+            "longitude": 8.081666,
+            "expectancy": 59.542198181152344,
+            "production": 5681.000000000000000,
+            "energy_consumption": 409.75701904296875
+        },
+        {
+            "amount": 120985928.000000000,
+            "height": 80986.914062500000000,
+            "country": "Nigeria",
+            "latitude": 9.081999,
+            "longitude": 8.675277,
+            "expectancy": 53.455001831054690,
+            "production": 12744450.000000000000000,
+            "energy_consumption": 2547.95434570312500
+        },
+        {
+            "amount": 3797262.500000000,
+            "height": 170.100006103515620,
+            "country": "Nicaragua",
+            "latitude": 12.865416,
+            "longitude": -85.207229,
+            "expectancy": 70.477699279785160,
+            "production": 375726.093750000000000,
+            "energy_consumption": 4265.27050781250000
+        },
+        {
+            "amount": 16321512.000000000,
+            "height": 7063340.500000000000000,
+            "country": "Netherlands",
+            "latitude": 52.132633,
+            "longitude": 5.291266,
+            "expectancy": 81.356002807617190,
+            "production": 171420.000000000000000,
+            "energy_consumption": 57972.37890625000000
+        },
+        {
+            "amount": 5354000.000000000,
+            "height": 2335250.250000000000000,
+            "country": "Norway",
+            "latitude": 60.472024,
+            "longitude": 8.468946,
+            "expectancy": 83.165603637695310,
+            "production": null,
+            "energy_consumption": 105215.00781250000000
+        },
+        {
+            "amount": 15218352.000000000,
+            "height": 162.000000000000000,
+            "country": "Nepal",
+            "latitude": 28.394857,
+            "longitude": 84.124008,
+            "expectancy": 68.384597778320310,
+            "production": 2997733.000000000000000,
+            "energy_consumption": 1607.63464355468750
+        },
+        {
+            "amount": 9842.244140625,
+            "height": 59.574298858642580,
+            "country": "Nauru",
+            "latitude": -0.522778,
+            "longitude": 166.931503,
+            "expectancy": 61.331199645996094,
+            "production": null,
+            "energy_consumption": 21609.61718750000000
+        },
+        {
+            "amount": 4898801.500000000,
+            "height": 1827702.375000000000000,
+            "country": "New Zealand",
+            "latitude": -40.900557,
+            "longitude": 174.885971,
+            "expectancy": 82.300300598144530,
+            "production": 209281.000000000000000,
+            "energy_consumption": 45918.47656250000000
+        },
+        {
+            "amount": 4337515.000000000,
+            "height": 80340.875000000000000,
+            "country": "Oman",
+            "latitude": 21.512583,
+            "longitude": 55.923255,
+            "expectancy": 75.969299316406250,
+            "production": 15545.000000000000000,
+            "energy_consumption": 87023.78125000000000
+        },
+        {
+            "amount": 2933574.500000000,
+            "height": 170.300003051757800,
+            "country": "Panama",
+            "latitude": 8.537981,
+            "longitude": -80.782127,
+            "expectancy": 77.003700256347660,
+            "production": 135425.000000000000000,
+            "energy_consumption": 27067.06835937500000
+        },
+        {
+            "amount": 23576428.000000000,
+            "height": 818279.062500000000000,
+            "country": "Peru",
+            "latitude": -9.189967,
+            "longitude": -75.015152,
+            "expectancy": 71.596199035644530,
+            "production": 1582556.500000000000000,
+            "energy_consumption": 9710.91406250000000
+        },
+        {
+            "amount": 3209550.750000000,
+            "height": 46248.320312500000000,
+            "country": "Papua New Guinea",
+            "latitude": -6.314993,
+            "longitude": 143.955550,
+            "expectancy": 64.357696533203120,
+            "production": 12622.339843750000000,
+            "energy_consumption": 2123.49780273437500
+        },
+        {
+            "amount": 59576760.000000000,
+            "height": 1578377.125000000000000,
+            "country": "Philippines",
+            "latitude": 12.879721,
+            "longitude": 121.774017,
+            "expectancy": 66.675498962402340,
+            "production": 8300322.000000000000000,
+            "energy_consumption": 4790.20605468750000
+        },
+        {
+            "amount": 50379440.000000000,
+            "height": 166.800003051757800,
+            "country": "Pakistan",
+            "latitude": 30.375321,
+            "longitude": 69.345116,
+            "expectancy": 65.773101806640620,
+            "production": 9524531.000000000000000,
+            "energy_consumption": 4683.58398437500000
+        },
+        {
+            "amount": 32476874.000000000,
+            "height": 2787264.750000000000000,
+            "country": "Poland",
+            "latitude": 51.919438,
+            "longitude": 19.145136,
+            "expectancy": 75.638702392578120,
+            "production": 7321910.000000000000000,
+            "energy_consumption": 31971.57617187500000
+        },
+        {
+            "amount": 2758288.250000000,
+            "height": 399070.187500000000000,
+            "country": "Puerto Rico",
+            "latitude": 18.220833,
+            "longitude": -66.590149,
+            "expectancy": 79.769798278808600,
+            "production": 17.569999694824220,
+            "energy_consumption": 24176.89257812500000
+        },
+        {
+            "amount": 8552695.000000000,
+            "height": 1689577.250000000000000,
+            "country": "Portugal",
+            "latitude": 39.399872,
+            "longitude": -8.224454,
+            "expectancy": 81.397796630859380,
+            "production": 752490.000000000000000,
+            "energy_consumption": 25897.68164062500000
+        },
+        {
+            "amount": 5148050.500000000,
+            "height": 38135.699218750000000,
+            "country": "Paraguay",
+            "latitude": -23.442503,
+            "longitude": -58.443832,
+            "expectancy": 68.108100891113280,
+            "production": 4088093.000000000000000,
+            "energy_consumption": 15782.27343750000000
+        },
+        {
+            "amount": 2814989.000000000,
+            "height": 31370.392578125000000,
+            "country": "Qatar",
+            "latitude": 25.354826,
+            "longitude": 51.183884,
+            "expectancy": 81.083000183105470,
+            "production": 2809.000000000000000,
+            "energy_consumption": 201562.76562500000000
+        },
+        {
+            "amount": 16089618.000000000,
+            "height": 172.300003051757800,
+            "country": "Romania",
+            "latitude": 45.943161,
+            "longitude": 24.966760,
+            "expectancy": 72.740501403808600,
+            "production": 14820690.000000000000000,
+            "energy_consumption": 20177.55273437500000
+        },
+        {
+            "amount": 5548040.000000000,
+            "height": 174.300003051757800,
+            "country": "Serbia",
+            "latitude": 44.016521,
+            "longitude": 21.005859,
+            "expectancy": 72.852996826171880,
+            "production": 6027130.500000000000000,
+            "energy_consumption": 27640.85156250000000
+        },
+        {
+            "amount": 128647696.000000000,
+            "height": 172.600006103515620,
+            "country": "Russia",
+            "latitude": 61.524010,
+            "longitude": 105.318756,
+            "expectancy": 69.806602478027340,
+            "production": 15237583.000000000000000,
+            "energy_consumption": 57444.50781250000000
+        },
+        {
+            "amount": 4068254.750000000,
+            "height": 5160.935546875000000,
+            "country": "Rwanda",
+            "latitude": -1.940278,
+            "longitude": 29.873888,
+            "expectancy": 66.849601745605470,
+            "production": 482682.000000000000000,
+            "energy_consumption": 471.35482788085940
+        },
+        {
+            "amount": 31328374.000000000,
+            "height": 357639.812500000000000,
+            "country": "Saudi Arabia",
+            "latitude": 23.885942,
+            "longitude": 45.079162,
+            "expectancy": 77.088699340820310,
+            "production": 59000.000000000000000,
+            "energy_consumption": 82945.31250000000000
+        },
+        {
+            "amount": 275540.125000000,
+            "height": 2120.020996093750000,
+            "country": "Solomon Islands",
+            "latitude": -9.645710,
+            "longitude": 160.156194,
+            "expectancy": 68.890403747558600,
+            "production": null,
+            "energy_consumption": 1892.13134765625000
+        },
+        {
+            "amount": 100359.476562500,
+            "height": 6163.443359375000000,
+            "country": "Seychelles",
+            "latitude": -4.679574,
+            "longitude": 55.491977,
+            "expectancy": 71.219802856445310,
+            "production": null,
+            "energy_consumption": 45933.66406250000000
+        },
+        {
+            "amount": 9860989.000000000,
+            "height": 4053454.250000000000000,
+            "country": "Sweden",
+            "latitude": 60.128161,
+            "longitude": 18.643501,
+            "expectancy": 83.019599914550780,
+            "production": 14900.000000000000000,
+            "energy_consumption": 60540.15625000000000
+        },
+        {
+            "amount": 1881095.000000000,
+            "height": 300213.375000000000000,
+            "country": "Slovenia",
+            "latitude": 46.151241,
+            "longitude": 14.995463,
+            "expectancy": 80.433998107910160,
+            "production": 388830.000000000000000,
+            "energy_consumption": 36133.63671875000000
+        },
+        {
+            "amount": 4840013.500000000,
+            "height": 507162.125000000000000,
+            "country": "Slovakia",
+            "latitude": 48.669026,
+            "longitude": 19.699024,
+            "expectancy": 74.590103149414060,
+            "production": 1579120.000000000000000,
+            "energy_consumption": 35836.40625000000000
+        },
+        {
+            "amount": 9997542.000000000,
+            "height": 40268.542968750000000,
+            "country": "Senegal",
+            "latitude": 14.497401,
+            "longitude": -14.452362,
+            "expectancy": 66.868499755859380,
+            "production": 754620.812500000000000,
+            "energy_consumption": 2505.20898437500000
+        },
+        {
+            "amount": 407445.343750000,
+            "height": 11946.808593750000000,
+            "country": "Suriname",
+            "latitude": 3.919305,
+            "longitude": -56.027783,
+            "expectancy": 68.942703247070310,
+            "production": 27.000000000000000,
+            "energy_consumption": 20284.99609375000000
+        },
+        {
+            "amount": 113660.281250000,
+            "height": 6680.763183593750000,
+            "country": "Sao Tome and Principe",
+            "latitude": 0.186360,
+            "longitude": 6.613081,
+            "expectancy": 68.026199340820310,
+            "production": 593.710021972656200,
+            "energy_consumption": 3310.24365234375000
+        },
+        {
+            "amount": 3933653.000000000,
+            "height": 170.699996948242200,
+            "country": "El Salvador",
+            "latitude": 13.794185,
+            "longitude": -88.896530,
+            "expectancy": 69.941398620605470,
+            "production": 836714.562500000000000,
+            "energy_consumption": 7076.43310546875000
+        },
+        {
+            "amount": 3185712.750000000,
+            "height": 3039.419189453125000,
+            "country": "Chad",
+            "latitude": 15.454166,
+            "longitude": 18.732207,
+            "expectancy": 53.136199951171875,
+            "production": 364630.687500000000000,
+            "energy_consumption": 361.16119384765625
+        },
+        {
+            "amount": 3106018.750000000,
+            "height": 41120.367187500000000,
+            "country": "Togo",
+            "latitude": 8.619543,
+            "longitude": 0.824782,
+            "expectancy": 61.328498840332030,
+            "production": 929020.000000000000000,
+            "energy_consumption": 1115.70434570312500
+        },
+        {
+            "amount": 61161592.000000000,
+            "height": 2324384.250000000000000,
+            "country": "Thailand",
+            "latitude": 15.870032,
+            "longitude": 100.992541,
+            "expectancy": 77.606498718261720,
+            "production": 4847845.000000000000000,
+            "energy_consumption": 19368.55664062500000
+        },
+        {
+            "amount": 9517167.000000000,
+            "height": 268608.125000000000000,
+            "country": "Tunisia",
+            "latitude": 33.886917,
+            "longitude": 9.537499,
+            "expectancy": 72.892799377441400,
+            "production": null,
+            "energy_consumption": 9524.10449218750000
+        },
+        {
+            "amount": 70569928.000000000,
+            "height": 2461118.500000000000000,
+            "country": "Turkey",
+            "latitude": 38.963745,
+            "longitude": 35.243322,
+            "expectancy": 75.722198486328120,
+            "production": 6750000.000000000000000,
+            "energy_consumption": 23015.53125000000000
+        },
+        {
+            "amount": 1175294.875000000,
+            "height": 174.500000000000000,
+            "country": "Trinidad and Tobago",
+            "latitude": 10.691803,
+            "longitude": -61.222503,
+            "expectancy": 71.111396789550780,
+            "production": 5000.000000000000000,
+            "energy_consumption": 113474.20312500000000
+        },
+        {
+            "amount": 19875226.000000000,
+            "height": 40150.980468750000000,
+            "country": "Tanzania",
+            "latitude": -6.369028,
+            "longitude": 34.888822,
+            "expectancy": 66.130599975585940,
+            "production": 7039000.000000000000000,
+            "energy_consumption": 907.40393066406250
+        },
+        {
+            "amount": 35092628.000000000,
+            "height": 173.100006103515620,
+            "country": "Ukraine",
+            "latitude": 48.379433,
+            "longitude": 31.165580,
+            "expectancy": 71.630798339843750,
+            "production": 42109848.000000000000000,
+            "energy_consumption": 21472.23437500000000
+        },
+        {
+            "amount": 4748301.500000000,
+            "height": 39291.632812500000000,
+            "country": "Uganda",
+            "latitude": 1.373333,
+            "longitude": 32.290275,
+            "expectancy": 66.449699401855470,
+            "production": 6164663.000000000000000,
+            "energy_consumption": 766.84606933593750
+        },
+        {
+            "amount": 312109056.000000000,
+            "height": 121261008.000000000000000,
+            "country": "United States of America",
+            "latitude": 37.090240,
+            "longitude": -95.712891,
+            "expectancy": 76.383598327636720,
+            "production": 382892672.000000000000000,
+            "energy_consumption": 77023.77343750000000
+        },
+        {
+            "amount": 3059530.750000000,
+            "height": 344227.875000000000000,
+            "country": "Uruguay",
+            "latitude": -32.522779,
+            "longitude": -55.765835,
+            "expectancy": 75.434501647949220,
+            "production": 769600.000000000000000,
+            "energy_consumption": 18316.92578125000000
+        },
+        {
+            "amount": 26227394.000000000,
+            "height": 170.500000000000000,
+            "country": "Uzbekistan",
+            "latitude": 41.377491,
+            "longitude": 64.585262,
+            "expectancy": 71.680801391601560,
+            "production": 590016.000000000000000,
+            "energy_consumption": 16600.65039062500000
+        },
+        {
+            "amount": 87331.125000000,
+            "height": 3685.129394531250000,
+            "country": "Saint Vincent and the Grenadines",
+            "latitude": 12.984305,
+            "longitude": -61.287228,
+            "expectancy": 69.132003784179690,
+            "production": 809.179992675781200,
+            "energy_consumption": 8245.43750000000000
+        },
+        {
+            "amount": 73419736.000000000,
+            "height": 165.899993896484380,
+            "country": "Vietnam",
+            "latitude": 14.058324,
+            "longitude": 108.277199,
+            "expectancy": 74.144798278808600,
+            "production": 4446383.000000000000000,
+            "energy_consumption": 12399.49023437500000
+        },
+        {
+            "amount": 202909.531250000,
+            "height": 3927.620849609375000,
+            "country": "Vanuatu",
+            "latitude": -15.376706,
+            "longitude": 166.959158,
+            "expectancy": 69.951797485351560,
+            "production": 923.640014648437500,
+            "energy_consumption": 2957.44384765625000
+        },
+        {
+            "amount": 167283.125000000,
+            "height": 1029.106933593750000,
+            "country": "Samoa",
+            "latitude": -13.759029,
+            "longitude": -172.104629,
+            "expectancy": 71.095802307128900,
+            "production": null,
+            "energy_consumption": 7302.08886718750000
+        },
+        {
+            "amount": 44472836.000000000,
+            "height": 2522365.500000000000000,
+            "country": "South Africa",
+            "latitude": -30.559482,
+            "longitude": 22.937506,
+            "expectancy": 62.009899139404300,
+            "production": 16951440.000000000000000,
+            "energy_consumption": 23674.67773437500000
+        },
+        {
+            "amount": 4162146.500000000,
+            "height": 19140.857421875000000,
+            "country": "Zambia",
+            "latitude": -13.133897,
+            "longitude": 27.849332,
+            "expectancy": 62.363098144531250,
+            "production": 3620244.000000000000000,
+            "energy_consumption": 3418.86303710937500
+        },
+        {
+            "amount": 5499640.000000000,
+            "height": 47738.703125000000000,
+            "country": "Zimbabwe",
+            "latitude": -19.015438,
+            "longitude": 29.154857,
+            "expectancy": 60.134700775146484,
+            "production": 1469664.000000000000000,
+            "energy_consumption": 2635.15356445312500
+        }
+    ]
+}
